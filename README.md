@@ -1,4 +1,4 @@
-# top-etl-tools
+# Top-etl-tools
 
 Welcome to the **Top ETL Tools** repository—a curated list of ETL frameworks, libraries, and software. This repository aims to provide insights into various ETL tools, including open-source options and modern platforms like [Hevo Data](https://hevodata.com/).
 
