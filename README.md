@@ -3,13 +3,13 @@
 Welcome to the **Ultimate Collection of Open-Source ETL Tools**! This repository provides an in-depth overview of **ETL (Extract, Transform, Load) tools**, data engineering best practices, and comparisons to help you choose the right tool for your data workflows.  
 
 🔗 **Jump to a section:**  
-- [What is ETL?](#what-is-etl)  
-- [Why ETL is Important](#why-etl-is-important)  
-- [ETL vs ELT](#etl-vs-elt)  
-- [Comparison of ETL Tools](#comparison-of-etl-tools)  
-- [Open-Source ETL Tools](#open-source-etl-tools)  
-- [Best Practices for ETL](#best-practices-for-etl)  
-- [How Hevo Simplifies ETL](#how-hevo-simplifies-etl)  
+- [What is ETL?](#-what-is-etl)  
+- [Why ETL is Important](#-why-etl-is-important)  
+- [ETL vs ELT](#-etl-vs-elt)  
+- [Comparison of ETL Tools](#-comparison-of-etl-tools)  
+- [Open-Source ETL Tools](#-open-source-etl-tools)  
+- [Best Practices for ETL](#-best-practices-for-etl)  
+- [How Hevo Simplifies ETL](#-how-hevo-simplifies-etl)
 ---
 
 ## 📌 What is ETL?  
