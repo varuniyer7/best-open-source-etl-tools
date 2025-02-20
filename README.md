@@ -53,9 +53,6 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 | **Singer**     | Open-source ELT Pipelines | Extensible, community-driven       | Requires manual setup |
 | **Meltano**    | DataOps & Version Control | Git-based workflows, flexible      | Complex for non-devs |
 | **Apache Nifi** | Stream Processing        | Drag-and-drop UI, real-time data   | Heavy infrastructure requirements |
-| **Talend**     | Enterprise ETL            | Rich features, strong data governance | Expensive, resource-intensive |
-| **Airbyte**    | Open-source ELT           | Pre-built connectors, active community | Can require custom coding |
-| **Fivetran**   | Fully Managed ELT         | Automated schema changes, minimal setup | Expensive for high-volume data |
 | **Databricks** | Big Data & AI Pipelines   | Optimized for Spark, scalable ML workflows | Requires expertise in Spark |
 | **AWS Glue**   | Serverless ETL in AWS     | Fully managed, pay-as-you-go pricing | Limited outside AWS ecosystem |
 
