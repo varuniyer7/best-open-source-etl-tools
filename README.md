@@ -104,3 +104,21 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 ✔️ **No Code Required** → Build pipelines in minutes without engineering effort  
 
 🚀 **Try Hevo Today → [Sign Up for Free](https://hevodata.com/)**  
+
+## 📚 Whitepapers & Articles  
+
+Explore these valuable resources to deepen your knowledge about ETL tools, cloud data integration, and best practices.  
+
+- [8 Best Cloud ETL Tools](https://hevodata.com/learn/8-best-cloud-etl-tools/)  
+- [AWS ETL Tools](https://hevodata.com/learn/aws-etl-tools/)  
+- [Python ETL Tools](https://hevodata.com/learn/python-etl-tools/)  
+- [Best Tools for Oracle ETL](https://hevodata.com/learn/best-tools-for-oracle-etl/)  
+- [Microsoft SQL Server ETL Best Tools](https://hevodata.com/learn/microsoft-sql-server-etl-best-tools/)  
+- [Free ETL Tools for MySQL](https://hevodata.com/learn/free-etl-tools-for-mysql/)  
+- [Salesforce ETL Tools](https://hevodata.com/learn/salesforce-etl-tools/)  
+- [ETL Tool Evaluation](https://hevodata.com/learn/etl-tool-evaluation/)  
+- [Cheatsheet for a Hassle-Free Amazon Redshift ETL](https://hevodata.com/resources/resource-guide/cheatsheet-for-a-hassle-free-amazon-redshift-etl/)  
+- [Cheatsheet for a Hassle-Free Google BigQuery ETL](https://hevodata.com/resources/resource-guide/cheatsheet-for-a-hassle-free-google-bigquery-etl/)  
+- [Cheatsheet for a Hassle-Free Snowflake ETL](https://hevodata.com/resources/resource-guide/cheatsheet-for-a-hassle-free-snowflake-etl/)  
+- [Should You Build or Buy a Data Pipeline?](https://hevodata.com/resources/resource-guide/should-you-build-or-buy-a-data-pipeline/)  
+
