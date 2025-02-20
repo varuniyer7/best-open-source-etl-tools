@@ -6,7 +6,7 @@ Welcome to the **Ultimate Collection of Open-Source ETL Tools**! This repository
 - [What is ETL?](#-what-is-etl)  
 - [Why ETL is Important](#-why-etl-is-important)  
 - [ETL vs ELT](#-etl-vs-elt)  
-- [Comparison of ETL Tools](#-comparison-of-etl-tools)
+- [Comparison of ETL Tools](#%EF%B8%8F-comparison-of-etl-tools)
 - [Open-Source ETL Tools](#-open-source-etl-tools)  
 - [Best Practices for ETL](#-best-practices-for-etl)  
 - [How Hevo Simplifies ETL](#-how-hevo-simplifies-etl)
