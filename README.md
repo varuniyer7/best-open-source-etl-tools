@@ -12,18 +12,18 @@ Welcome to the **Ultimate Collection of Open-Source ETL Tools**! This repository
 - [How Hevo Simplifies ETL](#how-hevo-simplifies-etl)  
 ---
 
-# 📌 What is ETL?  
+## 📌 What is ETL?  
 
 ETL (Extract, Transform, Load) is a **data integration process** that moves data from multiple sources to a destination (such as a **data warehouse or database**) while ensuring data quality and consistency.  
 
-## 🔹 **ETL Process Steps:**  
+### 🔹 **ETL Process Steps:**  
 1️⃣ **Extract** → Pull raw data from databases, APIs, or cloud applications.  
 2️⃣ **Transform** → Clean, standardize, and structure data for analysis.  
 3️⃣ **Load** → Store the transformed data into a data warehouse or analytical system.  
 
 ---
 
-# 🌟 Why ETL is Important  
+## 🌟 Why ETL is Important  
 
 🚀 **ETL pipelines** are essential for businesses that rely on **data-driven decisions**. Key benefits include:  
 
@@ -33,7 +33,7 @@ ETL (Extract, Transform, Load) is a **data integration process** that moves data
 
 ---
 
-# 🔄 ETL vs ELT  
+## 🔄 ETL vs ELT  
 
 | Feature          | ETL (Extract, Transform, Load) | ELT (Extract, Load, Transform) |
 |-----------------|--------------------------------|--------------------------------|
@@ -45,7 +45,7 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 
 ---
 
-# ⚖️ Comparison of ETL Tools  
+## ⚖️ Comparison of ETL Tools  
 
 | Tool          | Best For                  | Pros                                | Cons                                |
 |--------------|--------------------------|------------------------------------|------------------------------------|
@@ -58,21 +58,21 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 
 ---
 
-# 🔥 Open-Source ETL Tools  
+## 🔥 Open-Source ETL Tools  
 
-## **1️⃣ Singer**  
+### **1️⃣ Singer**  
 **🔹 Best For:** Open-source ELT Pipelines  
 **✅ Pros:** Flexible, community-driven, reusable taps & targets  
 **❌ Cons:** Requires custom setup and maintenance  
 🔗 [Singer GitHub Repo](https://github.com/singer-io)  
 
-## **2️⃣ Meltano**  
+### **2️⃣ Meltano**  
 **🔹 Best For:** DataOps & Git-based ETL  
 **✅ Pros:** CI/CD support, integrates with Singer  
 **❌ Cons:** Steeper learning curve for non-devs  
 🔗 [Meltano GitHub Repo](https://github.com/meltano/meltano)  
 
-## **3️⃣ Apache Nifi**  
+### **3️⃣ Apache Nifi**  
 **🔹 Best For:** Real-time Data Streaming  
 **✅ Pros:** Drag-and-drop UI, supports large-scale data flows  
 **❌ Cons:** Requires heavy infrastructure setup  
@@ -85,7 +85,7 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 
 ---
 
-# ✅ Best Practices for ETL  
+## ✅ Best Practices for ETL  
 
 🚀 Follow these **best practices** to optimize your ETL processes:  
 
@@ -96,7 +96,7 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 
 ---
 
-# ⚡ How Hevo Simplifies ETL  
+## ⚡ How Hevo Simplifies ETL  
 
 **[Hevo Data](https://hevodata.com/)** is a **real-time, no-code ETL platform** that helps you:  
 
