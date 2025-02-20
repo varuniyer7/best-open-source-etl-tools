@@ -109,7 +109,7 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 
 Explore these valuable resources to deepen your knowledge about ETL tools, cloud data integration, and best practices.  
 
-- [8 Best Cloud ETL Tools](https://hevodata.com/learn/8-best-cloud-etl-tools/)  
+- [20 Best ETL Tools](https://hevodata.com/learn/8-best-cloud-etl-tools/)  
 - [AWS ETL Tools](https://hevodata.com/learn/aws-etl-tools/)  
 - [Python ETL Tools](https://hevodata.com/learn/python-etl-tools/)  
 - [Best Tools for Oracle ETL](https://hevodata.com/learn/best-tools-for-oracle-etl/)  
