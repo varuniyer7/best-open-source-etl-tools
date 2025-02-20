@@ -82,7 +82,6 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 
 📌 **Explore our full list of open-source ETL tools in our blog → [Top Free Open-Source ETL Tools](https://hevodata.com/learn/top-free-open-source-etl-tools-to-consider/)**  
 
-
 ---
 
 ## ✅ Best Practices for ETL  
@@ -105,5 +104,3 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 ✔️ **No Code Required** → Build pipelines in minutes without engineering effort  
 
 🚀 **Try Hevo Today → [Sign Up for Free](https://hevodata.com/)**  
-
----
