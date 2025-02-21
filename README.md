@@ -6,15 +6,15 @@ Welcome to the **Ultimate Collection of Open-Source ETL Tools**! This repository
 - [What is ETL?](#-what-is-etl)  
 - [Why ETL is Important](#-why-etl-is-important)  
 - [ETL vs ELT](#-etl-vs-elt)
-- [Workflow Orchestration Tools](#workflow-orchestration-tools)
-- [Job Scheduling Tools](#job-scheduling-tools)
-- [Java ETL Tools](#java-etl-tools)  
-- [Python Libraries for Data Processing & ETL](#python-libraries-for-data-processing--etl)  
-- [Data Processing & ETL Tools (Ruby, Go, and JavaScript)](#data-processing--etl-tools-ruby-go-and-javascript)  
-- [Cloud ETL Services](#cloud-etl-services)  
-- [Big Data (Hadoop Stack)](#big-data-hadoop-stack)  
-- [GUI-Based ETL Tools](#gui-based-etl-tools)  
-- [Comparison of ETL Tools](#%EF%B8%8F-comparison-of-etl-tools)
+- [Workflow Orchestration Tools](#-workflow-orchestration-tools)
+- [Job Scheduling Tools](#-job-scheduling-tools)
+- [Java ETL Tools](#-java-etl-tools)  
+- [Python Libraries for Data Processing & ETL](#-python-libraries-for-data-processing--etl)  
+- [Data Processing & ETL Tools (Ruby, Go, and JavaScript)](#-data-processing--etl-tools-ruby-go-and-javascript)  
+- [Cloud ETL Services](#%EF%B8%8F-cloud-etl-services)  
+- [Big Data (Hadoop Stack)](#-big-data-hadoop-stack)  
+- [GUI-Based ETL Tools](#%EF%B8%8F-gui-based-etl-tools)  
+- [Comparison of ETL Tools](#%EF%B8%8F-comparison-of-top-etl-tools)
 - [Open-Source ETL Tools](#-open-source-etl-tools)  
 - [Best Practices for ETL](#-best-practices-for-etl)  
 - [How Hevo Simplifies ETL](#-how-hevo-simplifies-etl)
@@ -53,7 +53,7 @@ ELT is gaining popularity with cloud **data warehouses** like **Snowflake, BigQu
 
 ---
 
-## Workflow Orchestration Tools  
+## ⚡ Workflow Orchestration Tools  
 
 ### Dagster  
 A modern data orchestrator designed for analytics, ETL, and machine learning workflows. It emphasizes data flow between reusable components and enables robust testing and observability.  
@@ -108,7 +108,7 @@ A library for defining and executing lightweight workflows declaratively, with b
 
 ---
 
-## Job Scheduling Tools  
+## ⏳ Job Scheduling Tools  
 
 ### Jenkins  
 A widely used open-source automation server built in Java, supporting continuous integration (CI) and job scheduling. With over 1000 plugins, it can automate complex workflows across different environments.  
@@ -147,7 +147,7 @@ A modern job scheduling framework for Java and Kotlin that enables distributed b
 
 ---
 
-## Java ETL Tools  
+## ☕ Java ETL Tools  
 
 ### Spring Batch  
 A robust batch processing framework built on the Spring ecosystem. It provides reusable components for ETL tasks, including transaction management, job processing, and parallel execution.  
@@ -181,7 +181,7 @@ A Java framework focused on processing, transforming, and integrating large-scal
 
 ---
 
-## Python Libraries for Data Processing & ETL  
+## 🐍 Python Libraries for Data Processing & ETL  
 
 ### Pandas  
 A powerful data manipulation library that provides data structures like DataFrames for handling and transforming structured data efficiently.  
@@ -245,9 +245,9 @@ A web scraping library that provides a jQuery-like syntax for querying and extra
 
 ---
 
-## Data Processing & ETL Tools (Ruby, Go, and JavaScript)  
+## 💎🐹🚀 Data Processing & ETL Tools (Ruby, Go, and JavaScript)  
 
-### Ruby  
+### 💎Ruby  
 
 **Kiba** - A lightweight ETL framework for Ruby, designed for building flexible and reusable data processing pipelines.  
 - 🔗 [GitHub Repo](https://github.com/thbar/kiba)  
@@ -267,7 +267,7 @@ A web scraping library that provides a jQuery-like syntax for querying and extra
 
 ---
 
-### Go  
+### 🐹Go  
 
 **Benthos** - A scalable, stream-processing framework designed to handle mundane data transformation tasks with minimal configuration.  
 - 🔗 [GitHub Repo](https://github.com/benthosdev/benthos)  
@@ -287,7 +287,7 @@ A web scraping library that provides a jQuery-like syntax for querying and extra
 
 ---
 
-### JavaScript  
+### 🚀JavaScript  
 
 **NoFlo** - A JavaScript implementation of Flow-Based Programming (FBP), designed for building complex data processing pipelines using a visual interface.  
 - 🔗 [GitHub Repo](https://github.com/noflo/noflo)  
@@ -298,7 +298,7 @@ A web scraping library that provides a jQuery-like syntax for querying and extra
 - 📖 [Documentation](https://github.com/agmen-hu/node-datapumps#readme)  
 
 ---
-## Cloud ETL Services  
+## ☁️ Cloud ETL Services  
 
 ### **Hevo**  
 A fully automated, no-code data pipeline platform supporting **150+ integrations** across databases, SaaS applications, cloud storage, SDKs, and streaming services.  
@@ -343,7 +343,7 @@ A fully automated, no-code data pipeline platform supporting **150+ integrations
 
 ---
 
-## **Big Data (Hadoop Stack)**  
+## 🐘 Big Data (Hadoop Stack)  
 
 ### **Apache Spark**  
 A **fast, distributed cluster computing system** for large-scale data processing. It supports:  
@@ -369,9 +369,6 @@ A **data warehouse infrastructure** built on Hadoop that provides **SQL-like que
 ✅ **Optimized for data analytics and reporting**.  
 - 🔗 [Apache Hive Docs](https://hive.apache.org/)  
 
-### **Apache Pig** (Removed, replaced by Hive)  
-(Previously included, but Hive provides a more SQL-friendly interface.)  
-
 ### **Delta Lake**  
 An **open-source storage layer** that brings ACID transactions to Apache Spark and big data workloads.  
 ✅ **Handles streaming & batch data simultaneously**.  
@@ -381,7 +378,7 @@ An **open-source storage layer** that brings ACID transactions to Apache Spark a
 
 ---
 
-## GUI-Based ETL Tools  
+## 🖥️ GUI-Based ETL Tools  
 
 > **Note:** If you are proficient in a scripting language, GUI-based ETL tools may not be a suitable replacement for a well-structured code-based solution. These tools often lack flexibility, leading to situations where you must resort to scripting workarounds. Additionally, the visual interface can obscure complexity, and the generated files can be difficult to review. However, for users less comfortable with coding, these tools can simplify certain tasks with their out-of-the-box functionality.  
 
@@ -400,7 +397,7 @@ Each tool has its strengths and limitations, so choosing the right one depends o
 ---
 
 
-## ⚖️ Comparison of ETL Tools  
+## ⚖️ Comparison of Top ETL Tools  
 
 | Tool          | Best For                  | Pros                                | Cons                                |
 |--------------|--------------------------|------------------------------------|------------------------------------|
