@@ -392,10 +392,8 @@ An **open-source storage layer** that brings ACID transactions to Apache Spark a
 - **Pentaho Data Integration (Kettle)** – A widely used open-source ETL tool with an intuitive interface.  
 - **Microsoft SSIS** – A component of Microsoft SQL Server for data migration and transformation tasks.  
 - **CloverDX** – A flexible ETL platform suitable for data transformation, automation, and orchestration.  
-
-Each tool has its strengths and limitations, so choosing the right one depends on your specific use case and technical expertise.  
+ 
 ---
-
 
 ## ⚖️ Comparison of Top ETL Tools  
 
